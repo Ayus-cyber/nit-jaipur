@@ -1,0 +1,5 @@
+promotion_id,promotion_name,start_date,end_date,discount_percentage,applicable_category
+1,Summer Sale,2025-06-01,2025-06-15,0.2,Apparel
+2,Tech Fest,2025-09-01,2025-09-10,0.15,Electronics
+3,Clearance,2025-11-20,2025-11-30,0.5,All
+4,Loyalty Bonus,2025-01-01,2025-12-31,0.05,All
